@@ -16,7 +16,7 @@ This application provides real-time weather information for any city using the O
 
 ## Code Explanation
 
-The application consists of three main functions and a driver function `main()`:
+The application consists of two main functions and a driver function `main()`:
 
 ### `fetch_data(city)`
 
